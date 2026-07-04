@@ -15,3 +15,10 @@ Required filenames:
 - `caramel-dessert-cup.usdz`
 
 After each file is added, set the matching `usdzReady` flag to `true` in the catalog so the Quick Look CTA becomes active on iPhone/iPad.
+
+
+
+
+
+
+change
